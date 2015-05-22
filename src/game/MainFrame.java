@@ -3,8 +3,8 @@ package game;
 import javax.swing.JFrame;
 
 
-public class mainFrame extends JFrame{
-	public mainFrame() {
+public class MainFrame extends JFrame{
+	public MainFrame() {
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		//setUndecorated(true); 
 		setSize(800, 600);
